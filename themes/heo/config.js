@@ -19,9 +19,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '有一道绿光',
   HEO_HERO_TITLE_2: '幸福在哪里',
-  HERO_TITLE_4: '我正在看',
-  HERO_TITLE_5: '异形：地球',
-  HERO_TITLE_LINK: 'https://www.themoviedb.org/tv/157239-alien-earth',
+  HEO_HERO_TITLE_3: '',
+  HEO_HERO_TITLE_4: '我正在看',
+  HEO_HERO_TITLE_5: '异形：地球',
+  HEO_HERO_TITLE_LINK: 'https://www.themoviedb.org/tv/157239-alien-earth',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
