@@ -45,12 +45,12 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/SiqiXiang',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://space.bilibili.com/237243193',
-  HEO_INFO_CARD_ICON3: 'fab fa-bilibili',
+  HEO_INFO_CARD_URL1: 'https://github.com/SiqiXiang',
+  HEO_INFO_CARD_ICON1: 'fab fa-github',
+  HEO_INFO_CARD_URL2: 'https://space.bilibili.com/237243193',
+  HEO_INFO_CARD_ICON2: 'fab fa-bilibili',
+  HEO_INFO_CARD_URL3: '/about',
+  HEO_INFO_CARD_ICON3: 'fas fa-user',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
