@@ -50,7 +50,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://github.com/SiqiXiang',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://space.bilibili.com/237243193',
-  HEO_INFO_CARD_ICON3: 'fa-brands fa-bilibili'
+  HEO_INFO_CARD_ICON3: 'fa-brands fa-bilibili',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
