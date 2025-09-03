@@ -20,7 +20,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '有一道绿光',
   HEO_HERO_TITLE_2: '幸福在哪里',
   HEO_HERO_TITLE_3: '',
-  HEO_HERO_TITLE_4: '我正在看',
+  HEO_HERO_TITLE_4: '见贤',
+  HEO_HERO_TITLE_5: '正在看',
   HEO_HERO_TITLE_LINK: 'https://www.themoviedb.org/u/xsq_2005/favorites',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
