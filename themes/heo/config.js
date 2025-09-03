@@ -21,8 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '幸福在哪里',
   HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '我正在看',
-  HEO_HERO_TITLE_5: '异形：地球',
-  HEO_HERO_TITLE_LINK: 'https://www.themoviedb.org/tv/157239-alien-earth',
+  HEO_HERO_TITLE_LINK: 'https://www.themoviedb.org/u/xsq_2005/favorites',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
