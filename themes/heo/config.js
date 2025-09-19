@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '见贤',
   HEO_HERO_TITLE_5: '正在看',
-  HEO_HERO_TITLE_LINK: 'https://www.themoviedb.org/u/xsq_2005/favorites/tv',
+  HEO_HERO_TITLE_LINK: 'https://app.trakt.tv/profile/jianxian',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
