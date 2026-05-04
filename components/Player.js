@@ -58,7 +58,6 @@ const Player = () => {
       setPlayer(undefined)
     }
   }, [])
-
   return (
     <div className={playerVisible ? 'visible' : 'invisible'}>
       <link
@@ -71,10 +70,8 @@ const Player = () => {
           fixed='true'
           type='playlist'
           preload='auto'
-          api={siteConfig(
-            'MUSIC_PLAYER_METING_API',
-            'https://api.injahow.cn/meting/?server=tencent&type=playlist&id=9708105470'
-          )}
+          lrc-type={siteConfig('MUSIC_PLAYER_METING_LRC_TYPE')}
+          api='https://api.injahow.cn/meting/?server=tencent&type=playlist&id=9708105470'
           autoplay={autoPlay}
           order={siteConfig('MUSIC_PLAYER_ORDER')}
           server={siteConfig('MUSIC_PLAYER_METING_SERVER')}
