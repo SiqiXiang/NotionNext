@@ -64,15 +64,17 @@ const Player = () => {
       <link
         rel='stylesheet'
         type='text/css'
-        href='https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css'
+        href='https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.css'
       />
       {meting ? (
         <meting-js
           fixed='true'
           type='playlist'
           preload='auto'
-          lrc-type={siteConfig('MUSIC_PLAYER_METING_LRC_TYPE')}
-          api='https://api.injahow.cn/meting/?server=tencent&type=playlist&id=9708105470'
+          api={siteConfig(
+            'MUSIC_PLAYER_METING_API',
+            'https://api.injahow.cn/meting/?server=:tencent&type=:type&id=:id'
+          )}
           autoplay={autoPlay}
           order={siteConfig('MUSIC_PLAYER_ORDER')}
           server={siteConfig('MUSIC_PLAYER_METING_SERVER')}
